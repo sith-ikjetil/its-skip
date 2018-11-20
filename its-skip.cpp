@@ -82,7 +82,7 @@ int main(int argc, char** argv)
         PrintHelp();
         return EXIT_SUCCESS;
     }
-
+    
     if ( ExecuteSkip(args) == EXIT_FAILURE )
     {
         stringstream ss;
