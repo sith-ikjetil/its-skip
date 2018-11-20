@@ -1,0 +1,1 @@
+g++ its-debug.cpp -o its-debug -ggdb
