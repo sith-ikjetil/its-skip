@@ -1,1 +1,1 @@
-g++ its-debug.cpp -o its-debug -ggdb
+g++ its-skip.cpp -o its-skip -ggdb

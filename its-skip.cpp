@@ -1,8 +1,8 @@
-//
-// Written by Kjetil Kristoffer Solberg
-//
-// (i) Skips n lines of input
-//
+//: Title        : its-skip.cpp
+//: Date         : 2018-11-24
+//: Author       : "Kjetil Kristoffer Solberg" <post@ikjetil.no>
+//: Version      : 1.0
+//: Descriptions : Filters away n lines of input
 
 //
 // #include
