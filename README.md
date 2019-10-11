@@ -16,3 +16,5 @@ With no FILE, read standard input
  -n, --count            Strip first n lines.
                         :: Example: its-skip -n 10
 ```
+
+**NB! THIS SOFTWARE HAS NO LICENSE!**
