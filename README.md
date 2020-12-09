@@ -1,4 +1,5 @@
 # its-skip
+License: **GPL-3.0-or-later**  
 This Linux filter is created simply to get some experience creating a filter. This is in
 no way a best-practise filter example. It just turned out this way.
 
@@ -17,4 +18,3 @@ With no FILE, read standard input
                         :: Example: its-skip -n 10
 ```
 
-**NB! THIS SOFTWARE HAS NO LICENSE!**
