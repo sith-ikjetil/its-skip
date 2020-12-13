@@ -1,0 +1,1 @@
+pandoc its-skip.1.md -s -t man -o its-skip.1
