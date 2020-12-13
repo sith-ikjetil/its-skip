@@ -17,8 +17,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/wait.h>
-#include "itsoftware-linux-core.h"
-#include "itsoftware-linux.h"
 
 //
 // using
@@ -163,7 +161,7 @@ int ParseArguments(int argc, char** argv, ItsSkipArguments& args)
         if ( bIsN )
         {
             bIsN = false;
-            args.Count = ItSoftware::Linux::ItsConvert::ToLong(argv[i]);
+            args.Count = std::stol(argv[i]);
             continue;
         }
 
