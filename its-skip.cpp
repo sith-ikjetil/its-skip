@@ -36,8 +36,8 @@ using std::stringstream;
 //
 struct ItsSkipArguments
 {
-    long Count;
-    bool IsHelp;
+    long Count = 0;
+    bool IsHelp = false;
     string FileIn;
     string FileOut;
 
