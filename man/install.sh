@@ -1,4 +1,5 @@
 printf "Installing man page\n"
+./render.sh
 if [ ! -d "/usr/local/man/man1" ]
 then
     sudo mkdir /usr/local/man/man1
