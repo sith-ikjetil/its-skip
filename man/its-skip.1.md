@@ -1,9 +1,9 @@
 % its-skip(1) its-skip 1.0.0
-% Kjetil Kristoffer Solberg
+% Written by Kjetil Kristoffer Solberg
 % December 2020
 
 # NAME
-its-skip - skip first n lines og file output
+its-skip - skip first n lines of file output
 
 # SYNOPSIS
 **its-skip** [*OPTION*] [*FILE*]
@@ -26,7 +26,7 @@ ls -al | **its-skip** -n 10
 : Skips the first 10 lines from test.txt
 
 # BUGS
-All software has bugs :).
+All software have bugs :)
 
 # COPYRIGHT
 License GPL-3.0-or-later. This is free software: you are free to change and redistribute it. There is NO WARRENTY, to the extent permitted by law.
