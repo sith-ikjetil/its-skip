@@ -1,3 +1,9 @@
+#!/bin/bash
+#: Title       : install.sh
+#: Date        : 2022-07-23
+#: Author      : Kjetil Kristoffer Solberg <post@ikjetil.no>
+#: Version     : 1.0
+#: Description : Installs its-skip man pages.
 printf "Installing man page\n"
 ./render.sh
 if [ ! -d "/usr/local/man/man1" ]
